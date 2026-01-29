@@ -1,0 +1,4 @@
+dataset: "2025-04-NCBI-eubacteria"
+dir_in: "data"
+dir_out: "results"
+cpu: "60"
